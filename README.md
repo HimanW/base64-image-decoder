@@ -1,4 +1,4 @@
-# JSON Image Decoder
+# JSON Image Decoder – Tea Lens backend debug helper
 
 Decode base64-encoded images from JSON response files into real image
 files with a small, CLI-friendly Python tool.
